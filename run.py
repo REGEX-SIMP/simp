@@ -6,7 +6,6 @@ print("join WhatsApp gc for upcoming updates");time.sleep(5)
 
 
 os.system("git pull")
-o
 b = platform.architecture()[0]
 if b == '64bit':
     import regex64
